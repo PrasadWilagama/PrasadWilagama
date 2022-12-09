@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Dananjaya Wilagama</h1>
-<h3 align="center">A passionate Full Stack developer and ML Engineer from Sri Lanka</h3>
+<h3 align="center">A Passionate Full Stack Developer and ML Engineer From Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadwilagama&label=Profile%20views&color=0e75b6&style=flat" alt="prasadwilagama" /> </p>
 
