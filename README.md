@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I am funny**
 
-- 🚧 Website : https://stellar-youtiao-8e6e17.netlify.app/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
